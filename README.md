@@ -8,4 +8,4 @@ Tools I used :\
 ° .NET 5\
 ° Entity Framework Core\
 ° SQLite\
-° Swagger UI\
+° Swagger UI
